@@ -6,3 +6,4 @@ class Solution(object):
                 nums[i]=x
                 i+=1
         return i
+    
